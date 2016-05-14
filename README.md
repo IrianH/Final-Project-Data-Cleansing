@@ -30,7 +30,7 @@ Description of activities performed:
 5- Read file "features.txt" with type of analysis made with the collected data 
 6- Read subject identifier or (volunteer identification) i.e. 1 - 30 for all observations
 
-Steps to Merge data
+Steps to Merge data and Create a new tidy set
 
 1- Merge train data to include volunteer id, activity performed and data collected
 2- Merge test data to include volunteer id, activity performed and data collected
