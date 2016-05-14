@@ -3,14 +3,14 @@ Feature Selection
 
 Only a subset of the original raw data was used for this project. 
 
-The set of variables that were left were those that included the following calculations....
+The set of variables that were left were those that included the following names as part of the variable name....
 
 mean(): Mean value  ** Only used for the project **
 std(): Standard deviation ** Only used for the project **
 meanFreq(): Weighted average of the frequency components to obtain a mean frequency ** Only used for this project **
 
 
-Variables included in Project assignment include... 
+Variables used in Project assignment and included in the clean data set are as follows... 
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 tBodyAcc-XYZ
@@ -32,7 +32,7 @@ fBodyGyroMag
 fBodyGyroJerkMag
 
 
-In addition, the following vectors values were also used...
+In addition, the following vectors values were also used in the calculations...
 
 gravityMean
 tBodyAccMean
